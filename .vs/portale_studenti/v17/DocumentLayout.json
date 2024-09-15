@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\portale_studenti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E3E6E3-2A46-4FE5-8A21-559F10ED805A}|portale_studenti\\portale_studenti.csproj|c:\\users\\utente\\source\\repos\\portale_studenti\\portale_studenti\\classes\\listastudenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E3E6E3-2A46-4FE5-8A21-559F10ED805A}|portale_studenti\\portale_studenti.csproj|solutionrelative:portale_studenti\\classes\\listastudenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E3E6E3-2A46-4FE5-8A21-559F10ED805A}|portale_studenti\\portale_studenti.csproj|c:\\users\\utente\\source\\repos\\portale_studenti\\portale_studenti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E3E6E3-2A46-4FE5-8A21-559F10ED805A}|portale_studenti\\portale_studenti.csproj|solutionrelative:portale_studenti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E3E6E3-2A46-4FE5-8A21-559F10ED805A}|portale_studenti\\portale_studenti.csproj|c:\\users\\utente\\source\\repos\\portale_studenti\\portale_studenti\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E3E6E3-2A46-4FE5-8A21-559F10ED805A}|portale_studenti\\portale_studenti.csproj|solutionrelative:portale_studenti\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\portale_studenti\\portale_studenti\\classes\\Studente.cs",
+              "RelativeDocumentMoniker": "portale_studenti\\classes\\Studente.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\portale_studenti\\portale_studenti\\classes\\Studente.cs",
+              "RelativeToolTip": "portale_studenti\\classes\\Studente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:57:29.712Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaStudenti.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\portale_studenti\\portale_studenti\\classes\\ListaStudenti.cs",
+              "RelativeDocumentMoniker": "portale_studenti\\classes\\ListaStudenti.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\portale_studenti\\portale_studenti\\classes\\ListaStudenti.cs",
+              "RelativeToolTip": "portale_studenti\\classes\\ListaStudenti.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAowHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:20:20.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\portale_studenti\\portale_studenti\\Program.cs",
+              "RelativeDocumentMoniker": "portale_studenti\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\portale_studenti\\portale_studenti\\Program.cs",
+              "RelativeToolTip": "portale_studenti\\Program.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAALwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:54:06.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

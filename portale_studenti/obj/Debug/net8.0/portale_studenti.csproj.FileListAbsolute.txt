@@ -1,0 +1,14 @@
+C:\Users\Utente\source\repos\portale_studenti\portale_studenti\bin\Debug\net8.0\portale_studenti.exe
+C:\Users\Utente\source\repos\portale_studenti\portale_studenti\bin\Debug\net8.0\portale_studenti.deps.json
+C:\Users\Utente\source\repos\portale_studenti\portale_studenti\bin\Debug\net8.0\portale_studenti.runtimeconfig.json
+C:\Users\Utente\source\repos\portale_studenti\portale_studenti\bin\Debug\net8.0\portale_studenti.dll
+C:\Users\Utente\source\repos\portale_studenti\portale_studenti\bin\Debug\net8.0\portale_studenti.pdb
+C:\Users\Utente\source\repos\portale_studenti\portale_studenti\obj\Debug\net8.0\portale_studenti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\portale_studenti\portale_studenti\obj\Debug\net8.0\portale_studenti.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\portale_studenti\portale_studenti\obj\Debug\net8.0\portale_studenti.AssemblyInfo.cs
+C:\Users\Utente\source\repos\portale_studenti\portale_studenti\obj\Debug\net8.0\portale_studenti.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\portale_studenti\portale_studenti\obj\Debug\net8.0\portale_studenti.dll
+C:\Users\Utente\source\repos\portale_studenti\portale_studenti\obj\Debug\net8.0\refint\portale_studenti.dll
+C:\Users\Utente\source\repos\portale_studenti\portale_studenti\obj\Debug\net8.0\portale_studenti.pdb
+C:\Users\Utente\source\repos\portale_studenti\portale_studenti\obj\Debug\net8.0\portale_studenti.genruntimeconfig.cache
+C:\Users\Utente\source\repos\portale_studenti\portale_studenti\obj\Debug\net8.0\ref\portale_studenti.dll

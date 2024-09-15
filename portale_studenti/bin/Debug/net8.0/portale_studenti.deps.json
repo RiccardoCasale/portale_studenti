@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "portale_studenti/1.0.0": {
+        "runtime": {
+          "portale_studenti.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "portale_studenti/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
